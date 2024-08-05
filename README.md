@@ -21,7 +21,7 @@ O objetivo deste dashboard é fornecer uma visão abrangente das vendas e logís
 
    - Visualização: Indicador de KPI
    - Descrição: Este KPI exibe o valor médio de venda comparado com a meta de 350. Especificamente, ele mostra se a meta foi atingida ou não em Abril/2014, facilitando o monitoramento do desempenho mensal de vendas.
-   - <img src="img/indicador_de_kpi.png" alt="Indicador de KPI" width="300"/>
+   - [<img src="img/grafico_treemap.png" alt="Indicador de KPI" width="300"/>](img/grafico_treemap.png)
 
 4. **Qual categoria de produto apresentou maior lucro médio?**
 
