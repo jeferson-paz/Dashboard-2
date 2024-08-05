@@ -37,31 +37,31 @@ O objetivo deste dashboard é fornecer uma visão abrangente das vendas e logís
 
 ## Funcionalidades do Dashboard
 
-  - **Filtragem de Dados:** O usuário pode filtrar os dados por ano, segmento e país para obter insights específicos.
-  - **Visualizações Interativas:** Gráficos e mapas interativos que permitem uma análise detalhada dos dados de vendas e logística.
+   - **Filtragem de Dados:** O usuário pode filtrar os dados por ano, segmento e país para obter insights específicos.
+   - **Visualizações Interativas:** Gráficos e mapas interativos que permitem uma análise detalhada dos dados de vendas e logística.
 
 ## Visualizações e Insights
 1. **Total de Valor de Venda por Modo de Envio:**
-  - Exibe o valor total de vendas realizadas por cada modo de envio.
+   - Exibe o valor total de vendas realizadas por cada modo de envio.
 
 2. **Mercados com Maior Custo Médio de Envio:**
-  - Gráfico de cascata mostrando os mercados com maiores custos médios de envio.
+   - Gráfico de cascata mostrando os mercados com maiores custos médios de envio.
 
 3. **Indicador de Desempenho de Valor de Venda:**
-  - KPI exibindo se a meta de valor de venda foi atingida no mês de Abril/2014.
+   - KPI exibindo se a meta de valor de venda foi atingida no mês de Abril/2014.
 
 4. **Lucro Médio por Categoria de Produto:**
-  - Gráfico comparativo destacando a categoria de produto com maior lucro médio.
+   - Gráfico comparativo destacando a categoria de produto com maior lucro médio.
 
 5. **Comportamento da Margem de Lucro ao Longo do Tempo:**
-  - Gráfico de linha ilustrando a evolução da margem de lucro ao longo do tempo.
+   - Gráfico de linha ilustrando a evolução da margem de lucro ao longo do tempo.
 
 ## Como Utilizar
 1. **Filtre os Dados:**
-  - Utilize os filtros disponíveis para selecionar o ano, segmento e país de interesse.
+   - Utilize os filtros disponíveis para selecionar o ano, segmento e país de interesse.
 
 2. **Interaja com os Gráficos:**
-  - Clique nos gráficos para obter detalhes específicos e visualizar os dados de diferentes perspectivas.
+   - Clique nos gráficos para obter detalhes específicos e visualizar os dados de diferentes perspectivas.
 
 ## Conclusão
 
