@@ -41,21 +41,20 @@ O objetivo deste dashboard é fornecer uma visão abrangente das vendas e logís
 - **Visualizações Interativas:** Gráficos e mapas interativos que permitem uma análise detalhada dos dados de vendas e logística.
 
 ## Visualizações e Insights
-- Total de Valor de Venda por Modo de Envio:
+1. **Total de Valor de Venda por Modo de Envio:**
+- Exibe o valor total de vendas realizadas por cada modo de envio.
 
-Exibe o valor total de vendas realizadas por cada modo de envio.
-Mercados com Maior Custo Médio de Envio:
+2. **Mercados com Maior Custo Médio de Envio:**
+- Gráfico de cascata mostrando os mercados com maiores custos médios de envio.
 
-Gráfico de cascata mostrando os mercados com maiores custos médios de envio.
-Indicador de Desempenho de Valor de Venda:
+3. **Indicador de Desempenho de Valor de Venda:**
+- KPI exibindo se a meta de valor de venda foi atingida no mês de Abril/2014.
 
-KPI exibindo se a meta de valor de venda foi atingida no mês de Abril/2014.
-Lucro Médio por Categoria de Produto:
+4. **Lucro Médio por Categoria de Produto:**
+- Gráfico comparativo destacando a categoria de produto com maior lucro médio.
 
-Gráfico comparativo destacando a categoria de produto com maior lucro médio.
-Comportamento da Margem de Lucro ao Longo do Tempo:
-
-Gráfico de linha ilustrando a evolução da margem de lucro ao longo do tempo.
+5. **Comportamento da Margem de Lucro ao Longo do Tempo:**
+- Gráfico de linha ilustrando a evolução da margem de lucro ao longo do tempo.
 
 ## Como Utilizar
 1. **Filtre os Dados:**
