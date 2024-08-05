@@ -25,15 +25,15 @@ O objetivo deste dashboard é fornecer uma visão abrangente das vendas e logís
 
 4. **Qual categoria de produto apresentou maior lucro médio?**
 
-   - Visualização: Gráfico Comparativo
+   - Visualização: Gráfico de Rosca
    - Descrição: Este gráfico compara as categorias de produto com base no lucro médio, destacando qual delas foi a mais lucrativa.
-   - <img src="img/grafico_comparativo.png" alt="Lucro Médio por Categoria de Produto" width="300"/>
+   - [<img src="img/grafico_de_rosca.png" alt="Lucro Médio por Categoria de Produto" width="300"/>](img/grafico_de_rosca.png) 
 
 5. **Qual foi o comportamento da margem de lucro ao longo do tempo?**
 
    - Visualização: Gráfico de Linha
    - Descrição: O gráfico de linha mostra a evolução da margem de lucro ao longo do tempo, proporcionando uma análise temporal do desempenho financeiro da empresa.
-   - <img src="img/grafico_de_linha.png" alt="Margem de Lucro ao Longo do Tempo" width="300"/>
+   - [<img src="img/gráfico-de-Linha.png" alt="Margem de Lucro ao Longo do Tempo" width="300"/>](img/gráfico-de-Linha.png)
 
 ## Funcionalidades do Dashboard
 
