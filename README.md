@@ -9,7 +9,7 @@ O objetivo deste dashboard é fornecer uma visão abrangente das vendas e logís
 
 - Visualização: Gráfico de Cascata
 - Descrição: Este gráfico de cascata ilustra o total de valor de venda segregado por diferentes modos de envio, permitindo uma análise clara das contribuições individuais de cada método de entrega.
-- <img src="img/grafico_de_cascata1.png" alt="Total de Valor de Venda por Modo de Envio" width="300"/>
+- <img src="img/grafico_de_cascata.png" alt="Total de Valor de Venda por Modo de Envio" width="300"/>
 
 2. **Quais mercados tiveram o maior custo médio de envio dos produtos vendidos?**
 
