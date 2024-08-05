@@ -37,8 +37,8 @@ O objetivo deste dashboard é fornecer uma visão abrangente das vendas e logís
 
 ## Funcionalidades do Dashboard
 
-- **Filtragem de Dados: O usuário pode filtrar os dados por ano, segmento e país para obter insights específicos.**
-- **Visualizações Interativas: Gráficos e mapas interativos que permitem uma análise detalhada dos dados de vendas e logística.**
+- **Filtragem de Dados:** O usuário pode filtrar os dados por ano, segmento e país para obter insights específicos.
+- **Visualizações Interativas:** Gráficos e mapas interativos que permitem uma análise detalhada dos dados de vendas e logística.
 
 ## Visualizações e Insights
 - Total de Valor de Venda por Modo de Envio:
