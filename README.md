@@ -13,9 +13,9 @@ O objetivo deste dashboard é fornecer uma visão abrangente das vendas e logís
 
 2. **Quais mercados tiveram o maior custo médio de envio dos produtos vendidos?**
 
-   - Visualização: Gráfico de Cascata
-   - Descrição: Aqui, um gráfico de cascata destaca os mercados que incorreram nos maiores custos médios de envio, proporcionando uma visão detalhada sobre os mercados mais onerosos em termos de logística.
-   - <img src="img/grafico_de_cascata2.png" alt="Mercados com Maior Custo Médio de Envio" width="300"/>
+   - Visualização: Gráfico Treemap
+   - Descrição: Aqui, um gráfico Treemap destaca os mercados que incorreram nos maiores custos médios de envio, proporcionando uma visão detalhada sobre os mercados mais onerosos em termos de logística.
+   - [<img src="img/grafico_treemap.png" alt="Mercados com Maior Custo Médio de Envio" width="300"/>](img/grafico_treemap.png)
 
 3. **A empresa ficou abaixo ou acima da meta de valor de venda no mês de Abril/2014?**
 
