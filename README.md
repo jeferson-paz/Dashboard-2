@@ -15,13 +15,13 @@ O objetivo deste dashboard é fornecer uma visão abrangente das vendas e logís
 
    - Visualização: Gráfico Treemap
    - Descrição: Aqui, um gráfico Treemap destaca os mercados que incorreram nos maiores custos médios de envio, proporcionando uma visão detalhada sobre os mercados mais onerosos em termos de logística.
-   - [<img src="img/KPI.png" alt="Mercados com Maior Custo Médio de Envio" width="300"/>](img/KPI.png)
+   - [<img src="img/grafico_treemap.png" alt="Mercados com Maior Custo Médio de Envio" width="300"/>](grafico_treemap.png)
 
 3. **A empresa ficou abaixo ou acima da meta de valor de venda no mês de Abril/2014?**
 
    - Visualização: Indicador de KPI
    - Descrição: Este KPI exibe o valor médio de venda comparado com a meta de 350. Especificamente, ele mostra se a meta foi atingida ou não em Abril/2014, facilitando o monitoramento do desempenho mensal de vendas.
-   - [<img src="img/grafico_treemap.png" alt="Indicador de KPI" width="300"/>](img/grafico_treemap.png)
+   - [<img src="img/KPI.png" alt="Indicador de KPI" width="300"/>](img/KPI.png)     
 
 4. **Qual categoria de produto apresentou maior lucro médio?**
 
