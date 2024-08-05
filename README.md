@@ -23,17 +23,17 @@ O objetivo deste dashboard é fornecer uma visão abrangente das vendas e logís
    - Descrição: Este KPI exibe o valor médio de venda comparado com a meta de 350. Especificamente, ele mostra se a meta foi atingida ou não em Abril/2014, facilitando o monitoramento do desempenho mensal de vendas.
    - <img src="img/indicador_de_kpi.png" alt="Indicador de KPI" width="300"/>
 
-4.**Qual categoria de produto apresentou maior lucro médio?**
+4. **Qual categoria de produto apresentou maior lucro médio?**
 
-  - Visualização: Gráfico Comparativo
-  - Descrição: Este gráfico compara as categorias de produto com base no lucro médio, destacando qual delas foi a mais lucrativa.
-  - <img src="img/grafico_comparativo.png" alt="Lucro Médio por Categoria de Produto" width="300"/>
+   - Visualização: Gráfico Comparativo
+   - Descrição: Este gráfico compara as categorias de produto com base no lucro médio, destacando qual delas foi a mais lucrativa.
+   - <img src="img/grafico_comparativo.png" alt="Lucro Médio por Categoria de Produto" width="300"/>
 
 5. **Qual foi o comportamento da margem de lucro ao longo do tempo?**
 
-  - Visualização: Gráfico de Linha
-  - Descrição: O gráfico de linha mostra a evolução da margem de lucro ao longo do tempo, proporcionando uma análise temporal do desempenho financeiro da empresa.
-  - <img src="img/grafico_de_linha.png" alt="Margem de Lucro ao Longo do Tempo" width="300"/>
+   - Visualização: Gráfico de Linha
+   - Descrição: O gráfico de linha mostra a evolução da margem de lucro ao longo do tempo, proporcionando uma análise temporal do desempenho financeiro da empresa.
+   - <img src="img/grafico_de_linha.png" alt="Margem de Lucro ao Longo do Tempo" width="300"/>
 
 ## Funcionalidades do Dashboard
 
