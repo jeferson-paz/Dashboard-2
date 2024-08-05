@@ -1,9 +1,9 @@
- # Análise de Dados de Vendas e Logística
-Este Dashboard foi criado através do curso gratuito da Data Science Academy de Microsoft Power BI Para Business Intelligence e Data Science, utilizando dados fictícios para a criação de um Dashboard Analítico de Vendas Globais e Logística.
+ ## Análise de Dados de Vendas, Custo, Margem de Lucro e KPI
+Este Dashboard foi criado através do curso gratuito da Data Science Academy de Microsoft Power BI Para Business Intelligence e Data Science, utilizando dados fictícios para a criação de um Dashboard Analítico de Vendas, Custo, Margem de Lucro e KPI.
 
 ## Objetivo
 
-O objetivo deste dashboard é fornecer uma visão abrangente das vendas globais e logística, respondendo às seguintes perguntas:
+O objetivo deste dashboard é fornecer uma visão abrangente das vendas e logística, respondendo às seguintes perguntas:
 
 1. **Qual foi o total de valor de venda considerando cada modo de envio dos pedidos?**
 
@@ -13,29 +13,35 @@ O objetivo deste dashboard é fornecer uma visão abrangente das vendas globais 
 
 2. **Quais mercados tiveram o maior custo médio de envio dos produtos vendidos?**
 
-Visualização: Gráfico de Cascata
-Descrição: Aqui, um gráfico de cascata destaca os mercados que incorreram nos maiores custos médios de envio, proporcionando uma visão detalhada sobre os mercados mais onerosos em termos de logística.
-<img src="img/grafico_de_cascata2.png" alt="Mercados com Maior Custo Médio de Envio" width="300"/>
-A empresa ficou abaixo ou acima da meta de valor de venda no mês de Abril/2014?
+- Visualização: Gráfico de Cascata
+- Descrição: Aqui, um gráfico de cascata destaca os mercados que incorreram nos maiores custos médios de envio, proporcionando uma visão detalhada sobre os mercados mais onerosos em termos de logística.
+- <img src="img/grafico_de_cascata2.png" alt="Mercados com Maior Custo Médio de Envio" width="300"/>
 
-Visualização: Indicador de KPI
-Descrição: Este KPI exibe o valor médio de venda comparado com a meta de 350. Especificamente, ele mostra se a meta foi atingida ou não em Abril/2014, facilitando o monitoramento do desempenho mensal de vendas.
-<img src="img/indicador_de_kpi.png" alt="Indicador de KPI" width="300"/>
-Qual categoria de produto apresentou maior lucro médio?
+3. **A empresa ficou abaixo ou acima da meta de valor de venda no mês de Abril/2014?**
 
-Visualização: Gráfico Comparativo
-Descrição: Este gráfico compara as categorias de produto com base no lucro médio, destacando qual delas foi a mais lucrativa.
-<img src="img/grafico_comparativo.png" alt="Lucro Médio por Categoria de Produto" width="300"/>
-Qual foi o comportamento da margem de lucro ao longo do tempo?
+- Visualização: Indicador de KPI
+- Descrição: Este KPI exibe o valor médio de venda comparado com a meta de 350. Especificamente, ele mostra se a meta foi atingida ou não em Abril/2014, facilitando o monitoramento do desempenho mensal de vendas.
+- <img src="img/indicador_de_kpi.png" alt="Indicador de KPI" width="300"/>
 
-Visualização: Gráfico de Linha
-Descrição: O gráfico de linha mostra a evolução da margem de lucro ao longo do tempo, proporcionando uma análise temporal do desempenho financeiro da empresa.
-<img src="img/grafico_de_linha.png" alt="Margem de Lucro ao Longo do Tempo" width="300"/>
-Funcionalidades do Dashboard
-Filtragem de Dados: O usuário pode filtrar os dados por ano, segmento e país para obter insights específicos.
-Visualizações Interativas: Gráficos e mapas interativos que permitem uma análise detalhada dos dados de vendas e logística.
-Visualizações e Insights
-Total de Valor de Venda por Modo de Envio:
+4.**Qual categoria de produto apresentou maior lucro médio?**
+
+- Visualização: Gráfico Comparativo
+- Descrição: Este gráfico compara as categorias de produto com base no lucro médio, destacando qual delas foi a mais lucrativa.
+- <img src="img/grafico_comparativo.png" alt="Lucro Médio por Categoria de Produto" width="300"/>
+
+5. **Qual foi o comportamento da margem de lucro ao longo do tempo?**
+
+- Visualização: Gráfico de Linha
+- Descrição: O gráfico de linha mostra a evolução da margem de lucro ao longo do tempo, proporcionando uma análise temporal do desempenho financeiro da empresa.
+- <img src="img/grafico_de_linha.png" alt="Margem de Lucro ao Longo do Tempo" width="300"/>
+
+## Funcionalidades do Dashboard
+
+- **Filtragem de Dados: O usuário pode filtrar os dados por ano, segmento e país para obter insights específicos.**
+- **Visualizações Interativas: Gráficos e mapas interativos que permitem uma análise detalhada dos dados de vendas e logística.**
+
+## Visualizações e Insights
+- Total de Valor de Venda por Modo de Envio:
 
 Exibe o valor total de vendas realizadas por cada modo de envio.
 Mercados com Maior Custo Médio de Envio:
@@ -50,18 +56,20 @@ Gráfico comparativo destacando a categoria de produto com maior lucro médio.
 Comportamento da Margem de Lucro ao Longo do Tempo:
 
 Gráfico de linha ilustrando a evolução da margem de lucro ao longo do tempo.
-Como Utilizar
-Filtre os Dados:
 
-Utilize os filtros disponíveis para selecionar o ano, segmento e país de interesse.
-Interaja com os Gráficos:
+## Como Utilizar
+1. **Filtre os Dados:**
+- Utilize os filtros disponíveis para selecionar o ano, segmento e país de interesse.
 
-Clique nos gráficos para obter detalhes específicos e visualizar os dados de diferentes perspectivas.
-Conclusão
-Este dashboard fornece uma análise detalhada das vendas globais e logística, permitindo identificar padrões, tendências e insights valiosos para tomada de decisão. Com ele, é possível entender melhor o desempenho de vendas por categoria de produto, modo de envio, mercados e outras dimensões relevantes.
+2. **Interaja com os Gráficos:**
+- Clique nos gráficos para obter detalhes específicos e visualizar os dados de diferentes perspectivas.
 
-Feito por: Jeferson Paz
+## Conclusão
 
-Cursos na Data Science Academy
+Este dashboard fornece uma análise detalhada das vendas e logística, permitindo identificar padrões, tendências e insights valiosos para tomada de decisão. Com ele, é possível entender melhor o desempenho de vendas por categoria de produto, modo de envio, mercados e outras dimensões relevantes.
 
-Meu GitHub
+---
+
+[Cursos na Data Science Academy](https://www.datascienceacademy.com.br)
+
+[Meu GitHub](https://github.com/jeferson-paz)
