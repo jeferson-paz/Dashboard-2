@@ -1,4 +1,4 @@
-# Análise de Dados de Vendas, Custo, Margem de Lucro e KPI
+Análise de Dados de Vendas, Custo, Margem de Lucro e KPI
 Este Dashboard foi criado através do curso gratuito da Data Science Academy de Microsoft Power BI Para Business Intelligence e Data Science, utilizando dados fictícios para a criação de um Dashboard Analítico de Vendas, Custo, Margem de Lucro e KPI.
 
 ## Objetivo
