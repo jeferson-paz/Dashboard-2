@@ -70,5 +70,3 @@ Este dashboard fornece uma análise detalhada das vendas e logística, permitind
 ---
 
 [Cursos na Data Science Academy](https://www.datascienceacademy.com.br)
-
-[Meu GitHub](https://github.com/jeferson-paz)
